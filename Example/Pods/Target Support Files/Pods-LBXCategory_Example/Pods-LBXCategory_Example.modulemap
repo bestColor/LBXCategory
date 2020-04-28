@@ -1,0 +1,6 @@
+framework module Pods_LBXCategory_Example {
+  umbrella header "Pods-LBXCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+PODS:
+  - LBXCategory (0.0.1):
+    - SDWebImage
+  - SDWebImage (5.7.3):
+    - SDWebImage/Core (= 5.7.3)
+  - SDWebImage/Core (5.7.3)
+
+DEPENDENCIES:
+  - LBXCategory (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  LBXCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LBXCategory: 4c32ecf6c8b058a1aac64cf7b0b27318fba708b2
+  SDWebImage: 97351f6582ceca541ea294ba66a1fcb342a331c2
+
+PODFILE CHECKSUM: 023224cc9af7cc8fd8ce9683858352e254ef7f2d
+
+COCOAPODS: 1.9.0.beta.2
